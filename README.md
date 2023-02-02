@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 </div>     
 
 ## 👩‍🎓 Formação
-  👩‍💻 Téc. Desenvolvimento de sistemas(SENAI)
+<div style="display: block">
+  👩‍💻 Téc. Desenvolvimento de sistemas(SENAI)<br>
   👩‍💻 Sistemas de Informação(FAM)
-
+  </div>
+<br>
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/samanta-nascimento-593057173/" alt="LinkedIn Badge"/>
