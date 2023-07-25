@@ -31,6 +31,10 @@ Here are some ideas to get you started:
   <img  height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>     
 
+<div align="center">
+<img width="50%" height="50%"  src="https://cdn.pixabay.com/animation/2023/05/17/16/04/16-04-26-783_512.gif"/>
+</div>
+
 ## 👩‍🎓 Formação
 <div style="display: block">
   👩‍💻 Téc. Desenvolvimento de sistemas(SENAI)<br>
