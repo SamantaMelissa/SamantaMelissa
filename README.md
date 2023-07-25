@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## ⚡ Gateira
 <div align="center">
   <p> Amo os animais, e principalmente gatos! </p>
-<img width="50%" height="50%"  src="https://cdn.pixabay.com/animation/2023/05/17/16/04/16-04-26-783_512.gif"/>
+<img width="30%" height="30%"  src="https://cdn.pixabay.com/animation/2023/05/17/16/04/16-04-26-783_512.gif"/>
 </div>
 
 ## 👩‍🎓 Formação
