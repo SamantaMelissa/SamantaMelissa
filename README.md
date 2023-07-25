@@ -38,10 +38,8 @@ Here are some ideas to get you started:
   </div>
 <br>
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/samanta-nascimento-593057173/" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+
+  <a href = "mailto:samanta.melissa13@gmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/samanta-nascimento-593057173/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 </div>
