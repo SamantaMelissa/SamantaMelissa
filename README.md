@@ -1,23 +1,6 @@
 ### Oiiie, seja bem vindo! Sou a Samanta 👋
 ### Desenvolvedora de sistemas | Instrutora do SENAI | Estudante por toda a vida 👩‍💻
 
-<!--
-**SamantaMelissa/SamantaMelissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## 😄 Conhecimentos
 <div style="display: inline_block">
   <img height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -32,7 +15,7 @@ Here are some ideas to get you started:
   <img  height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-## ⚡ Gateira
+## ⚡ Felicidade
 <div align="center">
   <p> Amo os animais, e principalmente gatos! </p>
 <img width="30%" height="30%"  src="https://cdn.pixabay.com/animation/2023/05/17/16/04/16-04-26-783_512.gif"/>
@@ -43,7 +26,7 @@ Here are some ideas to get you started:
   👩‍💻 Téc. Desenvolvimento de sistemas(SENAI)<br>
   👩‍💻 Sistemas de Informação(FAM)
   </div>
-<br>
+
 ## 💬 Contatos
 <div id="badges">
   <a href = "mailto:samanta.melissa13@gmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
