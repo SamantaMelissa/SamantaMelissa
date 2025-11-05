@@ -1,4 +1,5 @@
-### Oiiie, seja bem vindo! Sou a Samanta 👋
+# Oiiie, seja bem vindo(a)! 
+## Sou a Samanta 👋
 ### Desenvolvedora de sistemas | Instrutora do SENAI | Estudante por toda a vida 👩‍💻
 
 ## 😄 Conhecimentos
@@ -23,8 +24,8 @@
 
 ## 👩‍🎓 Formação
 <div style="display: block">
-  👩‍💻 Téc. Desenvolvimento de sistemas(SENAI)<br>
-  👩‍💻 Sistemas de Informação(FAM)
+  👩‍💻 Téc. Desenvolvimento de Sistemas (SENAI)<br>
+  👩‍💻 Sistemas de Informação (FAM)
   </div>
 
 ## 💬 Contatos
