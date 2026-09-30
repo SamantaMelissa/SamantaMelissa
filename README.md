@@ -1,6 +1,6 @@
 # Oiiie, seja bem vindo(a)! 
 ## Sou a Samanta 👋
-### Desenvolvedora de sistemas | Instrutora do SENAI | Estudante por toda a vida 👩‍💻
+### Desenvolvedora de sistemas | Instrutora | Estudante por toda a vida 👩‍💻
 
 ## 😄 Conhecimentos
 <div style="display: inline_block">
